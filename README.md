@@ -18,3 +18,4 @@ instructeurs pourraient avoir pour les formations en programmation informatique,
 - Graphisme : compétences dans l'utilisation de logiciels de conception graphique tels que Photoshop, Illustrator, InDesign et Sketch. Capacité à créer des illustrations, des logos, des affiches et des designs de marque. Connaissance des principes de design graphique, des couleurs, des typographies et des techniques de composition. Capacité à travailler en collaboration avec des clients pour comprendre leurs besoins et créer des designs qui répondent à leurs attentes.
 
 Il est important que les instructeurs aient une expérience pratique dans leur domaine et une passion pour l'enseignement pour transmettre efficacement leurs connaissances aux apprenants.
+https://relaxed-cocada-500b7d.netlify.app
