@@ -19,3 +19,5 @@ instructeurs pourraient avoir pour les formations en programmation informatique,
 
 Il est important que les instructeurs aient une expérience pratique dans leur domaine et une passion pour l'enseignement pour transmettre efficacement leurs connaissances aux apprenants.
 https://relaxed-cocada-500b7d.netlify.app
+
+By Prudent NGAIPERA-DONG
